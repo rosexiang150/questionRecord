@@ -23,3 +23,22 @@ git push -u origin master
 ### 分类
 
 这是
+
+# 三.下载及配置android sdk
+
+```
+https://www.jianshu.com/p/d25a95e3cc1e
+https://www.androiddevtools.cn/
+https://pan.baidu.com/s/1sj4ZfTb?utm_source=androiddevtools&utm_medium=website
+https://pan.baidu.com/s/1ntHqLZj?utm_source=androiddevtools&utm_medium=website
+
+附加参考:https://www.cnblogs.com/woniu123/p/10755262.html
+```
+
+# 四.Genymotion 2.11.0 模拟器安装及配置
+
+```
+https://blog.csdn.net/hebbely/article/details/79087199
+附加参考:http://www.voidcn.com/article/p-gpnwwotn-brx.html
+```
+
